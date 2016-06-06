@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'ilikenwf:nested-sortable',
+  name: 'orbiter:nested-sortable',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'A jQuery plugin that extends Sortable UI functionalities to nested lists.',

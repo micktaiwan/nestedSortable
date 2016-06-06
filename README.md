@@ -1,3 +1,7 @@
+This version is just a fork of ilikenwf:nested-sortable that is no more on atmospherejs
+
+meteor add orbiter:nested-sortable
+
 # nestedSortable jQuery plugin
 
 **nestedSortable** is a jQuery plugin that extends jQuery Sortable UI functionalities to nested lists.  
